@@ -1,0 +1,14 @@
+C:\Users\yusifvy\Desktop\LabTaskLINQ\LabTaskLINQ\bin\Debug\net8.0\LabTaskLINQ.exe
+C:\Users\yusifvy\Desktop\LabTaskLINQ\LabTaskLINQ\bin\Debug\net8.0\LabTaskLINQ.deps.json
+C:\Users\yusifvy\Desktop\LabTaskLINQ\LabTaskLINQ\bin\Debug\net8.0\LabTaskLINQ.runtimeconfig.json
+C:\Users\yusifvy\Desktop\LabTaskLINQ\LabTaskLINQ\bin\Debug\net8.0\LabTaskLINQ.dll
+C:\Users\yusifvy\Desktop\LabTaskLINQ\LabTaskLINQ\bin\Debug\net8.0\LabTaskLINQ.pdb
+C:\Users\yusifvy\Desktop\LabTaskLINQ\LabTaskLINQ\obj\Debug\net8.0\LabTaskLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifvy\Desktop\LabTaskLINQ\LabTaskLINQ\obj\Debug\net8.0\LabTaskLINQ.AssemblyInfoInputs.cache
+C:\Users\yusifvy\Desktop\LabTaskLINQ\LabTaskLINQ\obj\Debug\net8.0\LabTaskLINQ.AssemblyInfo.cs
+C:\Users\yusifvy\Desktop\LabTaskLINQ\LabTaskLINQ\obj\Debug\net8.0\LabTaskLINQ.csproj.CoreCompileInputs.cache
+C:\Users\yusifvy\Desktop\LabTaskLINQ\LabTaskLINQ\obj\Debug\net8.0\LabTaskLINQ.dll
+C:\Users\yusifvy\Desktop\LabTaskLINQ\LabTaskLINQ\obj\Debug\net8.0\refint\LabTaskLINQ.dll
+C:\Users\yusifvy\Desktop\LabTaskLINQ\LabTaskLINQ\obj\Debug\net8.0\LabTaskLINQ.pdb
+C:\Users\yusifvy\Desktop\LabTaskLINQ\LabTaskLINQ\obj\Debug\net8.0\LabTaskLINQ.genruntimeconfig.cache
+C:\Users\yusifvy\Desktop\LabTaskLINQ\LabTaskLINQ\obj\Debug\net8.0\ref\LabTaskLINQ.dll
